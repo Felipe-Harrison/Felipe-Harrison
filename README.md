@@ -13,7 +13,7 @@ Sou estudante da UFU (Universidade Federal de Uberlândia) no curso de Tecnologi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>  
 </div> 
 
 ---
@@ -26,4 +26,14 @@ Sou estudante da UFU (Universidade Federal de Uberlândia) no curso de Tecnologi
 ## Contatos
 
 <a href = "mailto:harrisufelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/felipe-harrison/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-              
+
+## Ainda busco estudar
+<div style="display: flex, flex: row wrap"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> Unity
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> Django
+</div>        
+          
+
+## For Fun
+
+<img src="https://miro.medium.com/max/1000/1*xOJ9eMNhBrzmKEn7KrDsCg.gif" height="350" width="400" />
