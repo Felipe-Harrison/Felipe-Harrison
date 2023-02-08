@@ -2,7 +2,7 @@ Salve ✌️! Welcome to my git hub profile.
 My name is Felipe Harrison and my nickname is 'Harrisu'!
 
 # Sobre min
-Sou estudante da UFU (Universidade Federal de Uberlândia) no curso de Tecnologia e um grande admirador do desenvolvimento Front end, alem de curtir design e buscar um bom UX (User experience)...
+Sou estudante da UFU (Universidade Federal de Uberlândia) no curso de Sistemas de Informação e um grande admirador do desenvolvimento Front end, alem de curtir design e tecnicas de UX/UI (User experience)...
 
 ## Tecnologias e Ferramentas
 <div style="display: flex, flex: row wrap"> 
