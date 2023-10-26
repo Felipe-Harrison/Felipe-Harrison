@@ -20,7 +20,7 @@ Sou estudante da UFU (Universidade Federal de Uberlândia) no curso de Sistemas 
 
 <div>
   <a href="https://github.com/Felipe-Harrison">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Harrison&layout=compact&langs_count=3&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Harrison&layout=compact&langs_count=6&theme=dracula&hide=Cython,PowerShell,Forth,Fortran"/>
 </div>
 
 ## Contatos
