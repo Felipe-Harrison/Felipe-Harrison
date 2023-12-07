@@ -57,11 +57,11 @@
   <a href="https://github.com/Felipe-Harrison/Pokedex-Django">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=Pokedex-Django&theme=github_dark" />
   </a>
-  <a href="https://github.com/Felipe-Harrison/background-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=background-generator&theme=github_dark"" />
-  </a>
   <a href="https://github.com/Felipe-Harrison/pdsi-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=pdsi-frontend&theme=holi" />
+  </a>
+  <a href="https://github.com/Felipe-Harrison/background-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=linear-gradient-generator&theme=github_dark"" />
   </a>
   <a href="https://github.com/Felipe-Harrison/perceptron-compBio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=perceptron-compBio&theme=holi"" />
@@ -72,5 +72,9 @@
 </div>
 
 ---
-
+<div align='left'>
+<img src="https://github.com/Felipe-Harrison/Felipe-Harrison/assets/76136248/58d098c3-e0c1-42d1-81fe-8c803229b12f" height="200" width="300" />
 <img src="https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33bed2f9c710d07b87e46_j_nvR0IzCf_p7I48K25FPArjljVHgn9nyzrTjs9Y3fN6SWjrhZN31UtY7K0mLmMc11PA3ITO3Pdx2R4aq3ZKnh-Tkp5Id1pwFUssGEYZVNy2dfrtsvZ2aC2bZbrnUyd-gqgKKEja.gif" height="200" width="200" />
+<img src="https://github.com/Felipe-Harrison/Felipe-Harrison/assets/76136248/dee46205-fb88-4f58-bb2c-61e643ae2ac3" height="200" width="300" />
+</div>
+
