@@ -30,6 +30,10 @@
       <sub><b>ReactJs</b></sub>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt-"tailwindcss"/><br>
+      <sub><b>TailwindCss</b></sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>
       <sub><b>Python</b></sub>
     </td>
@@ -72,6 +76,8 @@
 </div>
 
 ---
+### Porque programação não precisa ser 100% séria
+
 <div align='left'>
 <img src="https://github.com/Felipe-Harrison/Felipe-Harrison/assets/76136248/58d098c3-e0c1-42d1-81fe-8c803229b12f" height="200" width="300" />
 <img src="https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33bed2f9c710d07b87e46_j_nvR0IzCf_p7I48K25FPArjljVHgn9nyzrTjs9Y3fN6SWjrhZN31UtY7K0mLmMc11PA3ITO3Pdx2R4aq3ZKnh-Tkp5Id1pwFUssGEYZVNy2dfrtsvZ2aC2bZbrnUyd-gqgKKEja.gif" height="200" width="200" />
