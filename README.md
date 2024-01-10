@@ -7,7 +7,8 @@
    Sou estudante da Universidade Federal de Uberlândia (UFU), cursando Sistemas de Informação. Tenho grande interesse no desenvolvimento Front-end, além de ser um entusiasta de design e UX/UI (User Experience).
  </p>
 </div>
-<a href = "mailto:harrisufelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/felipe-harrison/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "mailto:harrisufelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/felipe-harrison/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://codepen.io/Harrisu-Felipe" target="_blank"><img src="https://img.shields.io/badge/-CodePen-18191A?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a>  
+
 
 
 ## Tecnologias e Ferramentas
