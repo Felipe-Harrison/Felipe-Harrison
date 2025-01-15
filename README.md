@@ -1,19 +1,21 @@
-<img align="right" width="300px" height='200px' style="margin:20px" src="https://github.com/Felipe-Harrison/Felipe-Harrison/assets/76136248/1c757de0-f74b-4b10-908c-c70a8986c12a">
-
 <div>
- 
  <h1 align="left">Salve Devs!✌️, sou o Felipe Harrison</h1>
  <p>
-   Sou estudante da Universidade Federal de Uberlândia (UFU), cursando Sistemas de Informação. Tenho grande interesse no desenvolvimento Front-end, além de ser um entusiasta de design e UX/UI (User Experience).
+   Me formei na Universidade Federal de Uberlândia (UFU), no curso de Sistemas de Informação. Tenho grande interesse no desenvolvimento Front-end, além de ser um entusiasta de design e UX/UI (User Experience).
  </p>
 </div>
-<a href = "mailto:harrisufelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/felipe-harrison/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://codepen.io/Harrisu-Felipe" target="_blank"><img src="https://img.shields.io/badge/-CodePen-18191A?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a>  
-
-
+<a href = "mailto:harrisufelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipe-harrison/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://codepen.io/Harrisu-Felipe" target="_blank"><img src="https://img.shields.io/badge/-CodePen-18191A?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a>  
+<a href="https://repositorio.ufu.br/handle/123456789/44215" target="_blank"><img src="https://img.shields.io/badge/TCC-007DBA?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>  
 
 ## Tecnologias e Ferramentas
 <table>
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/><br>
+      <sub><b>TypeScript</b></sub>
+    </td>    
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>
       <sub><b>JavaScript</b></sub>
@@ -25,14 +27,22 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/><br>
       <sub><b>CSS3</b></sub>
+    </td>     
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/><br>
+      <sub><b>Angular</b></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  <br>
       <sub><b>ReactJs</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt-"tailwindcss"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt-"tailwindcss" /><br>
       <sub><b>TailwindCss</b></sub>
+    </td>
+    <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/><br>
+     <sub><b>CSharp</b></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>
@@ -68,8 +78,8 @@
   <a href="https://github.com/Felipe-Harrison/background-generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=linear-gradient-generator&theme=github_dark"" />
   </a>
-  <a href="https://github.com/Felipe-Harrison/perceptron-compBio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=perceptron-compBio&theme=holi"" />
+  <a href="https://github.com/Felipe-Harrison/boatos-br-corpus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=boatos-br-corpus&theme=holi"" />
   </a>
   <a href="https://github.com/Felipe-Harrison/ProjetoWeb-Recuperacao-de-Informacao">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=ProjetoWeb-Recuperacao-de-Informacao&theme=github_dark" />
