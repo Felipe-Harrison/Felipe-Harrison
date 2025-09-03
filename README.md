@@ -1,97 +1,77 @@
 <div>
- <h1 align="left">Salve Devs!✌️, sou o Felipe Harrison</h1>
+ <h1 align="left">👋 Salve Devs, eu sou o Felipe Harrison</h1>
  <p>
-   Me formei na Universidade Federal de Uberlândia (UFU), no curso de Sistemas de Informação. Tenho grande interesse no desenvolvimento Front-end, além de ser um entusiasta de design e UX/UI (User Experience).
+   <b>Desenvolvedor Full Stack</b> formado em Sistemas de Informação (UFU)  
  </p>
+
+<ul>
+ <li>🎯 Foco em <b>Front-end</b> e criação de interfaces</li>
+ <li>🎨 Entusiasta de <b>Design</b> e <b>UX/UI</b></li>
+ <li>⚡ Experiência com <b>Angular, React, TypeScript, C#, Python</b></li>
+ <li>🚀 Sempre em busca de aprendizado e evolução</li>
+</ul>
 </div>
-<a href = "mailto:harrisufelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+---
+
+## 🌐 Onde me encontrar
+<a href="mailto:harrisufelipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-harrison/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://codepen.io/Harrisu-Felipe" target="_blank"><img src="https://img.shields.io/badge/-CodePen-18191A?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a>  
 <a href="https://repositorio.ufu.br/handle/123456789/44215" target="_blank"><img src="https://img.shields.io/badge/TCC-007DBA?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>  
 
-## Tecnologias e Ferramentas
+---
+
+## 🚀 Tecnologias & Ferramentas
 <table>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/><br>
-      <sub><b>TypeScript</b></sub>
-    </td>    
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <br>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/><br>
-      <sub><b>CSS3</b></sub>
-    </td>     
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/><br>
-      <sub><b>Angular</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  <br>
-      <sub><b>ReactJs</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt-"tailwindcss" /><br>
-      <sub><b>TailwindCss</b></sub>
-    </td>
-    <td align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/><br>
-     <sub><b>CSharp</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>
-      <sub><b>Python</b></sub>
-    </td>
-     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br>
-        <sub><b>GIT</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <br>
-      <sub><b>VsCode</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>  <br>
-      <sub><b>Photoshop</b></sub>
-    </td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br><b>TypeScript</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br><b>HTML5</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br><b>CSS3</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/><br><b>Angular</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br><b>React</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br><b>TailwindCSS</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br><b>C#</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><b>Python</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><b>Git</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br><b>VSCode</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40"/><br><b>Photoshop</b></td>
   </tr>
-</table> 
-
-## Meu GitHub
-
-<div align='left'>
-  <a href="https://github.com/Felipe-Harrison">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Harrison&layout=compact&langs_count=4&card_width=400px&theme=holi&hide=Cython,PowerShell,Forth,Fortran" />
-  </a>
-  <a href="https://github.com/Felipe-Harrison/Pokedex-Django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=Pokedex-Django&theme=github_dark" />
-  </a>
-  <a href="https://github.com/Felipe-Harrison/pdsi-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=pdsi-frontend&theme=holi" />
-  </a>
-  <a href="https://github.com/Felipe-Harrison/background-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=linear-gradient-generator&theme=github_dark"" />
-  </a>
-  <a href="https://github.com/Felipe-Harrison/boatos-br-corpus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=boatos-br-corpus&theme=holi"" />
-  </a>
-  <a href="https://github.com/Felipe-Harrison/ProjetoWeb-Recuperacao-de-Informacao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=ProjetoWeb-Recuperacao-de-Informacao&theme=github_dark" />
-  </a>
-</div>
+</table>
 
 ---
-### Porque programação não precisa ser 100% séria
 
-<div align='left'>
-<img src="https://github.com/Felipe-Harrison/Felipe-Harrison/assets/76136248/58d098c3-e0c1-42d1-81fe-8c803229b12f" height="200" width="300" />
-<img src="https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33bed2f9c710d07b87e46_j_nvR0IzCf_p7I48K25FPArjljVHgn9nyzrTjs9Y3fN6SWjrhZN31UtY7K0mLmMc11PA3ITO3Pdx2R4aq3ZKnh-Tkp5Id1pwFUssGEYZVNy2dfrtsvZ2aC2bZbrnUyd-gqgKKEja.gif" height="200" width="200" />
-<img src="https://github.com/Felipe-Harrison/Felipe-Harrison/assets/76136248/dee46205-fb88-4f58-bb2c-61e643ae2ac3" height="200" width="300" />
+## 📊 GitHub em ação
+
+<div align="left">
+  <a href="https://github.com/Felipe-Harrison">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Harrison&layout=compact&langs_count=6&card_width=400px&theme=holi&hide=Cython,PowerShell,Forth,Fortran" />
+  </a>
 </div>
 
+### 🔗 Projetos em destaque
+<a href="https://github.com/Felipe-Harrison/Pokedex-Django">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=Pokedex-Django&theme=github_dark" />
+</a>
+<a href="https://github.com/Felipe-Harrison/pdsi-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=pdsi-frontend&theme=holi" />
+</a>
+<a href="https://github.com/Felipe-Harrison/linear-gradient-generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=linear-gradient-generator&theme=github_dark" />
+</a>
+<a href="https://github.com/Felipe-Harrison/boatos-br-corpus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=boatos-br-corpus&theme=holi" />
+</a>
+<a href="https://github.com/Felipe-Harrison/ProjetoWeb-Recuperacao-de-Informacao">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Felipe-Harrison&repo=ProjetoWeb-Recuperacao-de-Informacao&theme=github_dark" />
+</a>
+
+---
+
+## 😄 Porque programação não precisa ser 100% séria
+<div align="left">
+<img src="https://github.com/Felipe-Harrison/Felipe-Harrison/assets/76136248/58d098c3-e0c1-42d1-81fe-8c803229b12f" height="200" />
+<img src="https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33bed2f9c710d07b87e46_j_nvR0IzCf_p7I48K25FPArjljVHgn9nyzrTjs9Y3fN6SWjrhZN31UtY7K0mLmMc11PA3ITO3Pdx2R4aq3ZKnh-Tkp5Id1pwFUssGEYZVNy2dfrtsvZ2aC2bZbrnUyd-gqgKKEja.gif" height="200" />
+<img src="https://github.com/Felipe-Harrison/Felipe-Harrison/assets/76136248/dee46205-fb88-4f58-bb2c-61e643ae2ac3" height="200" />
+</div>
