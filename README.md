@@ -143,21 +143,13 @@ Tenho experiência na criação de **Design Systems, bibliotecas de componentes 
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Harrison&bg_color=0d1117&color=3c9edd&line=3c9edd&point=ffffff&area=true&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Harrison&bg_color=0d1117&color=3c9edd&line=3c9edd&point=ffffff&area=true&hide_border=true"/>
-
-</td>
-
-<td>
-
-<img src="https://streak-stats.demolab.com?user=Felipe-Harrison&theme=github-dark-blue&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=Felipe-Harrison&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 ---
 
